@@ -6,4 +6,7 @@
     <string name="mailTitle">Электронная почта</string>
     <string name="nameText">Введите имя</string>
     <string name="nameTitle">Имя пользователя</string>
+    <string name="addData">Введите данные!</string>
+    <string name="subscribe">Подписка на рассылку успешно оформлена для пользователя </string>
+    <string name="yourMail"> на электронный адрес </string>
 </resources>
